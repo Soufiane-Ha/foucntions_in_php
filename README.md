@@ -1,4 +1,5 @@
-# foucntions_in_php
+# Foucntions_in_php
+> # INSERT
 
 1.1. Founction for insert data for tableu (General form of the addition function using PDO)
 ````
@@ -62,3 +63,8 @@ if (addUser($conn, $name, $email, $password)) {
 }
 
 ````
+> # EDIT
+> # UPDATE
+> # DELETE
+> # RECHERCH
+> # FILTRAG
